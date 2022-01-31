@@ -15,11 +15,29 @@
     border: solid red;
 }
 
+.images {
+    position: relative;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    left: -4px;
+}
+
 .img1   {
+    position: absolute;
+    width: 520px;
+    height: 520px;
+    display: inline;
+    object-fit: fill;
+}
+
+.frame1 {
+    width: 620px;
+    height: 620px;
+    filter: hue-rotate(0deg) saturate(0);
     display: block;
-    margin-right: auto;
-    margin-left: auto;
-    width: 60%;
+    z-index: 2;
 }
 
 .h2 {
