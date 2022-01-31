@@ -1,0 +1,40 @@
+.html   {
+    background-color: black;
+}
+
+.img1    {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+.hr {
+    border: 1px solid red;
+}
+
+.lasagna    {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 58.55%;
+}
+
+.karaage    {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    width: 58.55%;
+}
+
+.mayochicken    {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 58.55%;
+}

@@ -1,0 +1,63 @@
+.html   {
+    background-color: black;
+}
+
+#header {
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+}
+
+.hr {
+    border: solid red;
+}
+
+.img1   {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 60%;
+}
+
+.h2 {
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+}
+
+.para   {
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.h3 {
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+}
+
+.ingredients    {
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+
+.steps  {
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
